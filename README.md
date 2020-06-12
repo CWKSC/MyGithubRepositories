@@ -34,8 +34,8 @@ ___
 
 ## Other
 
-| [MyPiano](https://github.com/CWKSC/MyPiano) | [MyArticle](https://github.com/CWKSC/MyArticle) | [HK-DSE-LS-IES](https://github.com/CWKSC/HK-DSE-LS-IES) |
-| ------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------- |
+| [MyResources](https://github.com/CWKSC/MyResources) | [MyPiano](https://github.com/CWKSC/MyPiano) | [MyArticle](https://github.com/CWKSC/MyArticle) | [HK-DSE-LS-IES](https://github.com/CWKSC/HK-DSE-LS-IES) |
+| --------------------------------------------------- | ------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------- |
 
 
 
