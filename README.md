@@ -11,10 +11,10 @@
 
 ## MyNote
 
-| [MyNote_AndroidStudio](https://github.com/CWKSC/MyNote_AndroidStudio) | [MyNote_LeetCode](https://github.com/CWKSC/MyNote_LeetCode)  | [MyNote_jQuery](https://github.com/CWKSC/MyNote_jQuery)    | [MyNote_Node.js](https://github.com/CWKSC/MyNote_Node.js)    | [MyNote_WebSocket](https://github.com/CWKSC/MyNote_WebSocket) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| [MyNote_Express.js](https://github.com/CWKSC/MyNote_Express.js) | [MyNote_Socket.IO](https://github.com/CWKSC/MyNote_Socket.IO) | [MyNote_MonogoDB](https://github.com/CWKSC/MyNote_MongoDB) | [MyNote_validator.js](https://github.com/CWKSC/MyNote_validator.js) | [MyNote_Mongoose](https://github.com/CWKSC/MyNote_Mongoose)  |
-| [MyNote_ZeroMQ.js](https://github.com/CWKSC/MyNote_ZeroMQ.js) |                                                              |                                                            |                                                              |                                                              |
+| [MyNote_AndroidStudio](https://github.com/CWKSC/MyNote_AndroidStudio) | [MyNote_LeetCode](https://github.com/CWKSC/MyNote_LeetCode)  | [MyNote_jQuery](https://github.com/CWKSC/MyNote_jQuery)     | [MyNote_Node.js](https://github.com/CWKSC/MyNote_Node.js)    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- | :----------------------------------------------------------- |
+| [MyNote_Express.js](https://github.com/CWKSC/MyNote_Express.js) | [MyNote_Socket.IO](https://github.com/CWKSC/MyNote_Socket.IO) | [MyNote_MonogoDB](https://github.com/CWKSC/MyNote_MongoDB)  | [MyNote_validator.js](https://github.com/CWKSC/MyNote_validator.js) |
+| [MyNote_ZeroMQ.js](https://github.com/CWKSC/MyNote_ZeroMQ.js) | [MyNote_WebSocket](https://github.com/CWKSC/MyNote_WebSocket) | [MyNote_Mongoose](https://github.com/CWKSC/MyNote_Mongoose) |                                                              |
 
 ## MyWebShare
 
@@ -34,8 +34,6 @@ ___
 
 ## Other
 
-| [MyResources](https://github.com/CWKSC/MyResources) | [MyPiano](https://github.com/CWKSC/MyPiano) | [MyArticle](https://github.com/CWKSC/MyArticle) | [HK-DSE-LS-IES](https://github.com/CWKSC/HK-DSE-LS-IES) |
-| --------------------------------------------------- | ------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------- |
-
-
+| [MyResources](https://github.com/CWKSC/MyResources) | [MyPiano](https://github.com/CWKSC/MyPiano) | [HK-DSE-LS-IES](https://github.com/CWKSC/HK-DSE-LS-IES) |
+| --------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
 
