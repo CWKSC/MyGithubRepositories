@@ -1,10 +1,11 @@
-### There are total 33 repositories
+### There are total 27 repositories
 
 It will not be the latest, I am so lazy meow
 
 ## Blog
 
-**[CWKSC.github.io](https://github.com/CWKSC/CWKSC.github.io)**  [Link](https://cwksc.github.io/), [](https://github.com/CWKSC/TranslateArticles) [Link](https://cwksc.github.io/TranslateArticles/)
+| [CWKSC.github.io](https://github.com/CWKSC/CWKSC.github.io) -> [Link](https://cwksc.github.io/) | [TranslateArticles](https://github.com/CWKSC/TranslateArticles) -> [Link](https://cwksc.github.io/TranslateArticles/) |
+| ----- | ----- |
 
 ## MyLib
 
@@ -29,8 +30,8 @@ It will not be the latest, I am so lazy meow
 | [TemplateGenerator](https://github.com/CWKSC/TemplateGenerator) | [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) | [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial) |
 | ----- | ----- |----- |
 
-| [Lagrangian-Interpolation-Polynomial-Generator](https://github.com/CWKSC/Lagrangian-Interpolation-Polynomial-Generator) | [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator) |
+| ------------------------------------------------------------ |
 
 [A-Lot-Of-Docx-To-Pdf-Converter](https://github.com/CWKSC/A-Lot-Of-Docx-To-Pdf-Converter) | [HKIVE-GSD-SDP-Point-Card-System](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | 
