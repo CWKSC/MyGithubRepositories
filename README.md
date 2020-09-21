@@ -1,4 +1,4 @@
-### There are total 27 repositories
+### There are total 26 repositories
 
 It will not be the latest, I am so lazy meow
 
