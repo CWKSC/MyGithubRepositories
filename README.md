@@ -41,6 +41,6 @@ ___
 
 ## Other
 
-| [MyResources](https://github.com/CWKSC/MyResources) | [MyPiano](https://github.com/CWKSC/MyPiano) | [HK-DSE-LS-IES](https://github.com/CWKSC/HK-DSE-LS-IES) |
-| --------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
+| [MyResources](https://github.com/CWKSC/MyResources) | [MyPiano](https://github.com/CWKSC/MyPiano) |
+| --------------------------------------------------- | ------------------------------------------- |
 
